@@ -57,3 +57,4 @@ if __name__ == "__main__":
     open(csv_file, 'w').close()
     monitor_log_file()
 
+
